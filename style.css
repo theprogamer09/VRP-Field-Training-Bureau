@@ -1,3 +1,8 @@
+body {
+  background-color: linear-gradient(red, blue);
+}
+
+
 /* Create a top navigation bar with a black background color  */
 .topnav {
   background-color: #333;
