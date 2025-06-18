@@ -1,5 +1,5 @@
 #body {
-  background-image: linear-gradient(red, blue);
+  background-image: linear-gradient(red 50%, blue 50%);
 }
 
 
